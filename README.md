@@ -1,38 +1,14 @@
 
 
 --- Feb 24 16:14 -----------------------------------------------------------------
-Global setup:
+first commit
 
- Set up git
-  git config --global user.name "Takao Yokoyama"
-  git config --global user.email yokoyama@cb.k.u-tokyo.ac.jp
-      
 
-Next steps:
-
-  mkdir CharacterLookupper
-  cd CharacterLookupper
-  git init
-  touch README
-  git add README
-  git commit -m 'first commit'
-  git remote add origin git@github.com:TrainingCamp2012/CharacterLookupper.git
-  git push -u origin master
-      
-
-Existing Git Repo?
-
-  cd existing_git_repo
-  git remote add origin git@github.com:TrainingCamp2012/CharacterLookupper.git
-  git push -u origin master
-      
-
-Importing a Subversion Repo?
-
-  Click here
-      
-
-When you're done:
-
-  Continue
-
+$ strings `which ssh`|grep xauth
+/usr/X11R6/bin/xauth
+xauthlocation
+No xauth program.
+%s/xauthfile
+%Warning: untrusted X11 forwarding setup failed: xauth key data not generated
+%Warning: No xauth data; using fake authentication data for X11 forwarding.
+%
