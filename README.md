@@ -1,19 +1,22 @@
 
+![alternate text](https://twimg0-a.akamaihd.net/profile_images/1763306179/AgdLr00CEAAtkrC_reasonably_small.jpeg)
+
+
+
 --- Feb 24 16:36 -----------------------------------------------------------------
 http://blog.livedoor.jp/oxon/archives/50715749.html
 
 --- Feb 24 16:14 -----------------------------------------------------------------
 first commit
 
+Instagram APIs
+______________
 
-$ strings `which ssh`|grep xauth
-/usr/X11R6/bin/xauth
-xauthlocation
-No xauth program.
-%s/xauthfile
-%Warning: untrusted X11 forwarding setup failed: xauth key data not generated
-%Warning: No xauth data; using fake authentication data for X11 forwarding.
-%
-%
+*GET tags
+http://instagr.am/developer/endpoints/tags/
 
 
+http://d.hatena.ne.jp/meganii/20111214/1323813720 - InstagramのAPIを叩く - ギークを夢見るじょーぶん男子
+Inspired by
+___________
+http://d.hatena.ne.jp/ruedap/20110228/instagram_api_of_exclusive_use_for_cat_lovers_nekostagram
