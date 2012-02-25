@@ -16,6 +16,9 @@ ______________
 
 http://instagr.am/developer/endpoints/tags/
 
+* save Image
+
+ http://d.hatena.ne.jp/gan2/20080531/1212227507
 
 http://d.hatena.ne.jp/meganii/20111214/1323813720 - InstagramのAPIを叩く - ギークを夢見るじょーぶん男子
 Inspired by
