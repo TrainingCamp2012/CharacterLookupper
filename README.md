@@ -3,14 +3,11 @@
 
 
 
---- Feb 24 16:36 -----------------------------------------------------------------
-http://blog.livedoor.jp/oxon/archives/50715749.html
-
---- Feb 24 16:14 -----------------------------------------------------------------
-first commit
-
 Instagram APIs
-______________
+___________
+* Authenticate
+ 
+http://d.hatena.ne.jp/meganii/20111214/1323813720
 
 * GET tags
 
@@ -20,7 +17,14 @@ http://instagr.am/developer/endpoints/tags/
 
  http://d.hatena.ne.jp/gan2/20080531/1212227507
 
-http://d.hatena.ne.jp/meganii/20111214/1323813720 - InstagramのAPIを叩く - ギークを夢見るじょーぶん男子
 Inspired by
 ___________
 http://d.hatena.ne.jp/ruedap/20110228/instagram_api_of_exclusive_use_for_cat_lovers_nekostagram
+
+___________
+* SSH Authority
+http://blog.livedoor.jp/oxon/archives/50715749.html
+
+* How to User JSON Parsej
+- http://d.hatena.ne.jp/snaka72/20080817/1218970157
+- http://flori.github.com/json/doc/index.html
