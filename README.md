@@ -12,7 +12,8 @@ first commit
 Instagram APIs
 ______________
 
-*GET tags
+* GET tags
+
 http://instagr.am/developer/endpoints/tags/
 
 
